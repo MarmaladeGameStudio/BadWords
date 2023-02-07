@@ -1,2 +1,2 @@
-\b(?!(\bniggard\w*\b))\w*n(i|L|1){1,}g{1,}(e|a|3)\w*\b#nigger
+\b(?!(\bniggard\w*\b))\w*n(i|l|1){1,}g{1,}(e|a|3)\w*\b#nigger
 lynchblacks
