@@ -2,3 +2,4 @@
 lynchblacks
 saynotojews
 adolfhitler
+\b\w*k(i|l|1){1,}(w|v){1,}h(i|l|1){1,}t(e|3){1,}(s|5){1,}\w*\b
