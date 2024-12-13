@@ -9,7 +9,6 @@ d(i|1){1,}(l|1){1,}f
 ^.*r[a4]{1,}p[e3]{1,}.*w[o0]{1,}m[e3]{1,}n.*
 [i1]b[a4]{1,}ngy[o0]{1,}?ur.*# IBangYour*
 [b8]{1,}[i1]{1,}gd[i1]{1,}ck.*# BigDick*
-n{1,}[e3]{1,}g{1,}[ue3]{1,}r{1,}.*# NEEGUR 
 h[il1]{1,}[t7]{1,}[1li]{1,}[e3]{1,}r{1,}.*# Hitler
 [li1]{1,}ynch[t7]{1,}h[3e]{1,}.*# LynchThe*
 \bg[a4]{1,}[sz5]{1,}[t7]{1,}h[e3]{1,}.*# GasThe*
