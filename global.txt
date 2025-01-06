@@ -14,5 +14,5 @@ h[il1]{1,}[t7]{1,}[1li]{1,}[e3]{1,}r{1,}.*# Hitler
 \bg[a4]{1,}[sz5]{1,}[t7]{1,}h[e3]{1,}.*# GasThe*
 \b(?!(\bscunthorpe\w*\b))\w*cu{1,}n[t7]{1,}.*# Cunt, but allows "Scunthorpe"
 d[i1]{1,}ld[o0]{1,}.*# Dildo
-b[i1l]{1,}[t7]{1,}ch.*# Bitch
-n[il1]q{2,}([a4]|er).*# Niqqa / Niqqer
+b[il1]{1,}[t7]{1,}ch.*# Bitch
+n[il1]q{2,}([a4]|[e3]r).*# Niqqa / Niqqer
