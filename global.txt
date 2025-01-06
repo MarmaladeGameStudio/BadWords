@@ -12,3 +12,5 @@ d(i|1){1,}(l|1){1,}f
 h[il1]{1,}[t7]{1,}[1li]{1,}[e3]{1,}r{1,}.*# Hitler
 [li1]{1,}ynch[t7]{1,}h[3e]{1,}.*# LynchThe*
 \bg[a4]{1,}[sz5]{1,}[t7]{1,}h[e3]{1,}.*# GasThe*
+\b(?!(\bscunthorpe\w*\b))\w*cu{1,}n[t7]{1,}.*# Cunt, but allows "Scunthorpe"
+d[i1]{1,}ld[o0]{1,}.*# Dildo
