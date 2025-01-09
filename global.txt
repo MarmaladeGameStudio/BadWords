@@ -16,3 +16,10 @@ h[il1]{1,}[t7]{1,}[1li]{1,}[e3]{1,}r{1,}.*# Hitler
 d[i1]{1,}ld[o0]{1,}.*# Dildo
 b[il1]{1,}[t7]{1,}ch.*# Bitch
 n[il1]q{2,}([a4]|[e3]r).*# Niqqa / Niqqer
+k[il1]llall.*# KillAll*
+c[o0]c[a4][il1]n[e3].*# Cocaine
+k[e3][t7][a4]m[il1]n[e3].*# Ketamine
+f[e3]n[t7][a4]ny[il1].*# Fentanyl
+h[e3]r[o0][il1]n.*# Heroin
+[e3]c[s5][t7][a4][s5]y.*# Esctasy
+n[il1]9{2,}[e3]r.*# ni99er
