@@ -24,3 +24,5 @@ h[e3]r[o0][il1]n.*# Heroin
 [e3]c[s5][t7][a4][s5]y.*# Esctasy
 n[il1]9{2,}[e3]r.*# ni99er
 [il1]{1,}hat[e3].*# IHate*
+k[il1]dr[a4]p[e3]{1,}.*# kidrape
+gr[o0]{2,}mk[il1]d.*# groomkid
