@@ -26,3 +26,4 @@ n[il1]9{2,}[e3]r.*# ni99er
 [il1]{1,}hat[e3].*# IHate*
 k[il1]dr[a4]p[e3]{1,}.*# kidrape
 gr[o0]{2,}mk[il1]d.*# groomkid
+[b8]urn[a4][il1]{2,}.*# burnall*
