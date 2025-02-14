@@ -28,3 +28,6 @@ k[il1]dr[a4]p[e3]{1,}.*# kidrape
 gr[o0]{2,}mk[il1]d.*# groomkid
 [b8]urn[a4][il1]{2,}.*# burnall*
 r[e3][a4]r[e3]ndf[il1][s5][t7][e3]r.*# RearEndFister
+f[a4]{1,}[gq9]{1,}[o0]{1,}[t7]{1,}.*# Faggot
+f[a4]{1,}[gq9]{1,}[e3]{1,}[t7]{1,}.*# Fagget
+n[il1]{1,}[gq9]{2,}[e3]r.*# NlGG3R
