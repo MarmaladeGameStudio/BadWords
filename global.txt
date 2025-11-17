@@ -35,3 +35,4 @@ f[a4]{1,}[gq9]{1,}[e3]{1,}[t7]{1,}.*# Fagget
 (?i)(fcky[o0]u|f[kc]y[o0u]{1,}n[i1!l|]{1,}[g9][g9][e3]{1,}r).*# FCKyouNigger
 r[a4]p[il1][s5][t7].*# BigRapist
 (?i).*n[a4][t7][e3][h4][il1]{1,}[gq9]{2,}[e3a4].*# *NATEHIGGERS*
+(?i)((d[e3]+m[s5]+)|(j[e3]+w[s5]+))mu[s5]+[t7]+.*# DemsMustDie, JewsMustDie
