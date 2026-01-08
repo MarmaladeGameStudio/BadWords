@@ -36,3 +36,6 @@ f[a4]{1,}[gq9]{1,}[e3]{1,}[t7]{1,}.*# Fagget
 r[a4]p[il1][s5][t7].*# BigRapist
 (?i).*n[a4][t7][e3][h4][il1]{1,}[gq9]{2,}[e3a4].*# *NATEHIGGERS*
 (?i)((d[e3]+m[s5]+)|(j[e3]+w[s5]+))mu[s5]+[t7]+.*# DemsMustDie, JewsMustDie
+(?i)[b68][l1i][a4]{1,}ck[p]{2,}[l1i]{1,}[sz25]u{1,}c{1,}k.*# Blackpplsuck
+(?i)n[il1j]{1,}[g]{2,}([a4]|[e3]r).*# njgga
+
