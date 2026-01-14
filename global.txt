@@ -38,4 +38,5 @@ r[a4]p[il1][s5][t7].*# BigRapist
 (?i)((d[e3]+m[s5]+)|(j[e3]+w[s5]+))mu[s5]+[t7]+.*# DemsMustDie, JewsMustDie
 (?i)[b68][l1i][a4]{1,}ck[p]{2,}[l1i]{1,}[sz25]u{1,}c{1,}k.*# Blackpplsuck
 (?i)n[il1j]{1,}[g]{2,}([a4]|[e3]r).*# njgga
+.*([f][o0]{1,}(?:[u]{1,})?[r](?:[e3]{1,})?|[4])[s5]{1,}[k]{1,}[i1]{1,}[n].* #Foreskin
 
