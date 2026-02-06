@@ -42,4 +42,4 @@ r[a4]p[il1][s5][t7].*# BigRapist
 (?i)Slu[t]{1,}(?:[s5])?(?:[y])?(?![h]) # Slut
 (?i)^([s5]p[e3]{1,}rm.*|.*[s5]p[e3]{1,}rm)$ # Sperm
 (?i)p[e3]{1,}(?:[a4]?)n[i1lu]{1,}[s5]{1,} # Penis
-
+(?i)[f][g][g][t7] #fggt
