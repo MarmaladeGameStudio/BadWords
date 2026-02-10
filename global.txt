@@ -45,5 +45,4 @@ r[a4]p[il1][s5][t7].*# BigRapist
 (?i)[f][g][g][t7] #fggt
 (?i)[e3][a4][t7][m][y][a4][s5]{2} #EatMyAss
 (?i)[f][u][k][e][r].* #fuker
-
-
+(?i)[b]+[i1l]+[g69]+[d]+[il1]+[k]+.* #BigDik
