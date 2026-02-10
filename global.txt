@@ -44,4 +44,5 @@ r[a4]p[il1][s5][t7].*# BigRapist
 (?i)p[e3]{1,}(?:[a4]?)n[i1lu]{1,}[s5]{1,} # Penis
 (?i)[f][g][g][t7] #fggt
 (?i)[e3][a4][t7][m][y][a4][s5]{2} #EatMyAss
-(?i)[e3][a4][t7][m][y][a4][s5]{2}
+(?i)[f][u][k][e][r] #fuker
+
